@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="G41.Minesweeper.UWP.Perfis"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:G41.Minesweeper.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <Image Source="/Assets/NoPic.png" x:Key="1"></Image>
+    </Page.Resources>
+    <Grid Background="#FF497EF0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="79*"/>
+            <RowDefinition Height="137*"/>
+        </Grid.RowDefinitions>
+        <Button x:ConnectionId='2' x:Name="buttonMenu" Content="Menu" Margin="332,149,0,0" VerticalAlignment="Top" Height="40" Width="83"                         />
+        <TextBlock x:ConnectionId='3' x:Name="textBlockLogadoComoPefis" HorizontalAlignment="Left" Margin="255,242,0,0" Text="Logado como:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Height="22" Width="127"/>
+        <TextBlock x:ConnectionId='4' x:Name="textBlockUserPerfis" HorizontalAlignment="Left" Margin="382,243,0,0" Text="Offline" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Height="45" Width="187"/>
+        <TextBlock x:ConnectionId='5' x:Name="textBlockPerfil" HorizontalAlignment="Left" Margin="356,108,0,0" Text="Perfil:" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="68" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="822,137,0,0" Text="Nome abreviado:" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="186" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="928,282,0,0" Text="Jogos:" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="72" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="932,189,0,0" Text="Email:" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="72" FontSize="22"/>
+        <Button x:ConnectionId='6' x:Name="buttonPesquisar" Content="Pesquisar" Margin="206,149,0,0" VerticalAlignment="Top" Width="121" Height="40"                              />
+        <TextBlock HorizontalAlignment="Left" Margin="947,230,0,0" Text="País:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" Height="29" Width="42"/>
+        <TextBox x:ConnectionId='7' x:Name="textBoxPerfil" HorizontalAlignment="Left" Margin="206,108,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="121" Height="32"/>
+        <TextBlock HorizontalAlignment="Left" Margin="998,282,0,0" Text="Ganhos:" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="84" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="990,339,0,0" Text="Perdidos:" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="90" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1029,10,0,0" Text="Facil:" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="50" FontSize="22" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1009,63,0,0" Text="Medio:" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="90" FontSize="22" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="814,10,0,0" Text="Melhores tempos:" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="181" FontSize="22" Grid.Row="1"/>
+        <TextBlock x:ConnectionId='8' x:Name="textBlockNomeAbr" HorizontalAlignment="Left" Margin="1147,137,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="300" FontSize="22" RenderTransformOrigin="0.472,0.439"/>
+        <TextBlock x:ConnectionId='9' x:Name="textBlockEmail" HorizontalAlignment="Left" Margin="1147,189,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="300" FontSize="22" RenderTransformOrigin="0.472,0.439"/>
+        <TextBlock x:ConnectionId='10' x:Name="textBlockGanhos" HorizontalAlignment="Left" Margin="1147,282,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="300" FontSize="22" RenderTransformOrigin="0.472,0.439"/>
+        <TextBlock x:ConnectionId='11' x:Name="textBlockPerdidos" HorizontalAlignment="Left" Margin="1147,339,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="300" FontSize="22" RenderTransformOrigin="0.472,0.439"/>
+        <TextBlock x:ConnectionId='12' x:Name="textBlockMTempoFacil" HorizontalAlignment="Left" Margin="1147,16,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="300" FontSize="22" RenderTransformOrigin="0.472,0.439" Grid.Row="1"/>
+        <TextBlock x:ConnectionId='13' x:Name="textBlockMTempoMedio" HorizontalAlignment="Left" Margin="1147,63,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="300" FontSize="22" RenderTransformOrigin="0.472,0.439" Grid.Row="1"/>
+        <TextBlock x:ConnectionId='14' x:Name="textBlockPais" HorizontalAlignment="Left" Margin="1147,230,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="300" FontSize="22" RenderTransformOrigin="0.472,0.439"/>
+        <TextBlock HorizontalAlignment="Left" Margin="469,108,0,0" Text="Foto:" TextWrapping="Wrap" VerticalAlignment="Top" Height="33" Width="90" FontSize="22"/>
+        <Image x:ConnectionId='15' x:Name="pictureBoxFoto" HorizontalAlignment="Left" Height="222" Margin="523,108,0,0" VerticalAlignment="Top" Width="222"/>
+
+    </Grid>
+</Page>
+

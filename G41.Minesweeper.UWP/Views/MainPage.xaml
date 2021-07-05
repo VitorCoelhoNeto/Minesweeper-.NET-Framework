@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="G41.Minesweeper.UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:G41.Minesweeper.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" 
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" MinWidth="1920" MinHeight="1080" MaxHeight="1080" MaxWidth="1920">
+
+    <Grid Background="#FF497EF0" >
+
+
+
+        <Button Margin="0,36,0,0" VerticalAlignment="Top" d:IsHidden="True" Grid.Row="2" Height="13" Width="20"/>
+        <Button x:Name="buttonJogarFacil" Content="Fácil" Margin="0,620,0,0" VerticalAlignment="Top" FontFamily="a" Click="Button_Click_1" Height="29" Width="136" HorizontalAlignment="Center"/>
+        <Image x:Name="img1" Source="/Assets/imageonline-co-whitebackgroundremoved(1) - Cópia.png" Margin="2315,265,138,390"  />
+        <Image HorizontalAlignment="Center" Height="208" Margin="0,169,0,0" VerticalAlignment="Top" Width="973" Source="/Assets/Título.png"/>
+        <Button x:Name="buttonJogarIntermedio" Content="Intermédio" Margin="0,668,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.839,-1.031" Height="34" Width="135" Click="buttonJogarIntermedio_Click" HorizontalAlignment="Center"/>
+        <Button x:Name="buttonAjuda" Content="Ajuda" Margin="0,869,0,0" VerticalAlignment="Top" Width="136" Click="buttonAjuda_Click" HorizontalAlignment="Center"/>
+        <Button x:Name="buttonSair" Content="Sair" Margin="0,920,0,0" VerticalAlignment="Top" Width="136" Click="buttonSair_Click" HorizontalAlignment="Center"/>
+        <Image HorizontalAlignment="Center" Height="226" Margin="0,369,0,0" VerticalAlignment="Top" Width="235" Source="/Assets/imageonline-co-whitebackgroundremoved(1) - Cópia.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="371,573,0,0" VerticalAlignment="Top" Width="100" Source="/Assets/sprite-explosion-computer-graphics-8-bit-sprite-png-clip-art-removebg-preview.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="371,573,0,0" VerticalAlignment="Top" Width="100" Source="691f8475-522b-45a1-9b63-8aeb1e57288d"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="371,573,0,0" VerticalAlignment="Top" Width="100" Source="691f8475-522b-45a1-9b63-8aeb1e57288d"/>
+        <Button x:Name="buttonLeaderboards" Content="Leaderboards" Margin="0,820,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.339,-0.438" Width="134" HorizontalAlignment="Center" Click="buttonLeaderboards_Click"/>
+        <Button x:Name="buttonLogin" Content="Login" Margin="893,773,0,0" VerticalAlignment="Top" FontSize="12" Height="29" Width="62" Click="buttonLogin_Click"/>
+        <Button Content="Logout" Margin="1073,920,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.516,-0.641" Click="Button_Click_2"/>
+        <TextBlock x:Name="textBlockLogadoComoInicio" HorizontalAlignment="Left" Margin="1072,886,0,0" Text="Logado como:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlockUserInicio" HorizontalAlignment="Left" Margin="1165,886,0,0" Text="Offline" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Button x:Name="buttonPerfis" Content="Perfis" Margin="965,773,0,0" VerticalAlignment="Top" Height="29" FontSize="12" Width="63" Click="buttonPerfis_Click"/>
+        <Button x:Name="buttonCriarConta" Content="Criar Conta" Margin="0,722,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.298,0.516" HorizontalAlignment="Center" Width="134" Click="buttonCriarConta_Click"/>
+
+    </Grid>
+</Page>

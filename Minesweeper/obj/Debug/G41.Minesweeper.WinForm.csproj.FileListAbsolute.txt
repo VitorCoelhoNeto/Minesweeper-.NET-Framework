@@ -1,0 +1,438 @@
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 G41.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 3 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 4 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 5 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 6 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 7 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 8 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 10 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 11 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 12 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 13 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 14 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 15 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 16 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 17 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 18 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.VerPerfis.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.VerPerfis.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 19 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.VerPerfis.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 22 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.VerPerfis.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.VerPerfis.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Backup 23 PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.VerPerfis.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.dll
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\bin\Debug\G41.Minesweeper.Common.pdb
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.VerPerfis.resources
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.CriarConta.resources
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Leaderboards.resources
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Registo.resources
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Ajuda.resources
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Intermedio.resources
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tab.resources
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\G41.Minesweeper.WinForm.csproj.CopyComplete
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+E:\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 3\!Final PL4G1.Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb

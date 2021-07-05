@@ -1,0 +1,6 @@
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\G41Minesweeper\bin\Debug\G41Minesweeper.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\G41Minesweeper\bin\Debug\G41Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\G41Minesweeper\obj\Debug\G41.Minesweeper.Common.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\G41Minesweeper\obj\Debug\G41.Minesweeper.Common.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\G41Minesweeper\obj\Debug\G41Minesweeper.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\G41Minesweeper\obj\Debug\G41Minesweeper.pdb

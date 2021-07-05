@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="G41.Minesweeper.UWP.Ajuda"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:G41.Minesweeper.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FF497EF0">
+        <Button x:Name="buttonFecharAjuda" Content="Fechar" Margin="0,743,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Click="buttonFecharAjuda_Click" Height="40" Width="185" FontSize="20"/>
+        <Image x:Name="imageInfo" HorizontalAlignment="Left" Height="100" Margin="440,226,0,0" VerticalAlignment="Top" Width="100" Source="/Assets/Info-removebg-preview.png"/>
+        <TextBlock x:Name="textBlockAjuda" Text="&#x9; O objetivo do jogo é revelar todos os painéis sem que o utilizador carregue em nenhuma mina, caso isto aconteça, perde o jogo e terá de recomeçar. Quando o utilizador clica num painel, podem acontecer 3 coisas:                                                                                                                                 1- O jogador clicou num painel com uma mina, quando isto acontece, o jogo acaba e terá de ser reiniciado para tentar de novo e a tentativa de ganhar  foi falhada.                                                       2- O jogador clicou num painel sem minas adjacentes, isto fará com que  sejam revelados todos os paineis adjacentes até que sejam encontrados  paineis com números, isto é, com minas adjacentes.      3- O jogador clicou num painel com minas adjacentes, isto faz com que o painel seja revelado com um número correspondente ao número de  painéis adjacentes com minas.  É também fornecido ao jogador a possibilidade de clicar com o botão direito do rato num painel para o marcar com uma bandeira, isto significa que o  jogador acha que este painel é detentor de uma mina. O jogo é ganho quando todos os painéis com minas forem marcados com uma bandeira ou quando todos os painéis sem minas forem revelados. " TextWrapping="Wrap" VerticalAlignment="Top" Height="394" Margin="471,294,466,0" FontSize="22"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,16 @@
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\bin\Release\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\bin\Release\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\bin\Release\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\bin\Release\G41.Minesweeper.Common.dll
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\bin\Release\G41.Minesweeper.Common.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\G41.Minesweeper.WinForm.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\Minesweeper.Ajuda.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\Minesweeper.Intermedio.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\G41.Minesweeper.WinForm.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\G41.Minesweeper.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\G41.Minesweeper.WinForm.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Backup 2 G41.Minesweeper\Minesweeper\obj\Release\Minesweeper.pdb

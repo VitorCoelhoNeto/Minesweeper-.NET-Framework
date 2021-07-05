@@ -1,0 +1,59 @@
+﻿<Page
+    x:Class="G41.Minesweeper.UWP.Intermedio"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:G41.Minesweeper.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Loaded="Page_Loaded"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <SolidColorBrush x:Key="BlueColor" Color="#FF00FF00" />
+        <Image Source="/Assets/1.png" x:Key="1"></Image>
+        <Image Source="/Assets/2.png" x:Key="2"></Image>
+        <Image Source="/Assets/3.png" x:Key="3"></Image>
+        <Image Source="/Assets/4.png" x:Key="4"></Image>
+        <Image Source="/Assets/5.png" x:Key="5"></Image>
+        <Image Source="/Assets/6.png" x:Key="6"></Image>
+        <Image Source="/Assets/7.png" x:Key="7"></Image>
+        <Image Source="/Assets/8.png" x:Key="8"></Image>
+        <Image Source="/Assets/Flag.png" x:Key="9"></Image>
+        <Image Source="/Assets/Mina.png" x:Key="10"></Image>
+        
+    </Page.Resources>
+
+    <Grid Background="#FF497EF0">
+        <Button x:Name="buttonMenu" Content="Menu" Margin="1525,301,0,0" VerticalAlignment="Top" Height="54" Width="197" Click="buttonMenu_Click" FontSize="24"/>
+        <Button Content="Sair para o desktop" Margin="1525,370,0,0" VerticalAlignment="Top" Height="54" Width="197" FontSize="20" Click="Button_Click"/>
+        <Button x:Name="buttonGameButtonMedio" Content="" Margin="0,64,0,0" VerticalAlignment="Top" Height="60" Width="60" Click="buttonGameButtonMedio_Click" HorizontalAlignment="Center">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/Game Button.png"/>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="textBlockTempo" HorizontalAlignment="Left" Margin="513,127,0,0" Text="Tempo:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlockTimerMedio" HorizontalAlignment="Left" Margin="593,127,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <TextBlock x:Name="textBlockNumMinasMedio" HorizontalAlignment="Left" Margin="1392,123,0,0" Text="40" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlockMinas" HorizontalAlignment="Left" Margin="1340,123,0,0" Text="Minas:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <StackPanel x:Name="coluna1" Orientation="Vertical" Margin="535,166,1332,101"/>
+        <StackPanel x:Name="coluna2" Orientation="Vertical" Margin="588,166,1279,101"/>
+        <StackPanel x:Name="coluna3" Orientation="Vertical" Margin="641,166,1226,101"/>
+        <StackPanel x:Name="coluna4" Orientation="Vertical" Margin="694,166,1172,101"/>
+        <StackPanel x:Name="coluna5" Orientation="Vertical" Margin="748,166,1119,101"/>
+        <StackPanel x:Name="coluna6" Orientation="Vertical" Margin="801,166,1065,101"/>
+        <StackPanel x:Name="coluna7" Orientation="Vertical" Margin="855,166,1012,101"/>
+        <StackPanel x:Name="coluna8" Orientation="Vertical" Margin="908,166,960,101"/>
+        <StackPanel x:Name="coluna9" Orientation="Vertical" Margin="960,166,907,101"/>
+        <StackPanel x:Name="coluna10" Orientation="Vertical" Margin="1013,166,854,101"/>
+        <StackPanel x:Name="coluna11" Orientation="Vertical" Margin="1066,166,801,101"/>
+        <StackPanel x:Name="coluna12" Orientation="Vertical" Margin="1119,166,747,101"/>
+        <StackPanel x:Name="coluna13" Orientation="Vertical" Margin="1173,166,693,101"/>
+        <StackPanel x:Name="coluna14" Orientation="Vertical" Margin="1227,166,640,101"/>
+        <StackPanel x:Name="coluna15" Orientation="Vertical" Margin="1280,166,587,101"/>
+        <StackPanel x:Name="coluna16" Orientation="Vertical" Margin="1333,166,534,101"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1525,190,0,0" Text="Logado como:" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" Width="105" FontSize="16"/>
+        <TextBlock x:Name="textBlockUserMedio" HorizontalAlignment="Left" Margin="1631,190,0,0" Text="Offline" TextWrapping="Wrap" VerticalAlignment="Top" Height="26" Width="232" FontSize="16"/>
+
+
+    </Grid>
+</Page>

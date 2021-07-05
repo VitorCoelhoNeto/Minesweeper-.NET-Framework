@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{56621474-F3CC-4C1C-8C29-8BFAACE625B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Minesweeper</RootNamespace>
+    <AssemblyName>Minesweeper</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Views\VerPerfis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\VerPerfis.Designer.cs">
+      <DependentUpon>VerPerfis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\CriarConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\CriarConta.Designer.cs">
+      <DependentUpon>CriarConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Leaderboards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Leaderboards.Designer.cs">
+      <DependentUpon>Leaderboards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Registo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Registo.Designer.cs">
+      <DependentUpon>Registo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Ajuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Ajuda.Designer.cs">
+      <DependentUpon>Ajuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Intermedio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Intermedio.Designer.cs">
+      <DependentUpon>Intermedio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Facil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Facil.Designer.cs">
+      <DependentUpon>Facil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs" />
+    <EmbeddedResource Include="Views\VerPerfis.resx">
+      <DependentUpon>VerPerfis.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Resources\Resources.resx" />
+    <EmbeddedResource Include="Views\CriarConta.resx">
+      <DependentUpon>CriarConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Leaderboards.resx">
+      <DependentUpon>Leaderboards.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Registo.resx">
+      <DependentUpon>Registo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Ajuda.resx">
+      <DependentUpon>Ajuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Intermedio.resx">
+      <DependentUpon>Intermedio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Facil.resx">
+      <DependentUpon>Facil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\musica.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musicaMenu.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nosound.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musicaMedio.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <None Include="Resources\NoFlag.png" />
+    <None Include="Resources\220984-200.png" />
+    <None Include="Resources\cup.png" />
+    <None Include="Resources\top.png" />
+    <None Include="Resources\favicon.ico" />
+    <None Include="Resources\Título.png" />
+    <None Include="Resources\Perfil.png" />
+    <None Include="Resources\Painel.png" />
+    <None Include="Resources\Info.png" />
+    <None Include="Resources\Copyright.png" />
+    <None Include="Resources\8.png" />
+    <None Include="Resources\7.png" />
+    <None Include="Resources\6.png" />
+    <None Include="Resources\Game_Button_Click.png" />
+    <None Include="Resources\Game_Button.png" />
+    <None Include="Resources\Game_Button_Dead.png" />
+    <None Include="Resources\5.png" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\1.png" />
+    <None Include="Resources\Mina.png" />
+    <None Include="Resources\Flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\G41.Minesweeper.Commonn\G41.Minesweeper.Common.csproj">
+      <Project>{528a92ff-9f48-449a-85bf-08a9647f14b8}</Project>
+      <Name>G41.Minesweeper.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

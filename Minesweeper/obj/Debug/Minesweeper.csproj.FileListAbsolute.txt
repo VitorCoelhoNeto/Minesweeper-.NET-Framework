@@ -1,0 +1,21 @@
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 1\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 1\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 1\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 1\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 1\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 1\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 1\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 1\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 1\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 1\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.Facil.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.Tabuleiro.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\vitor\OneDrive\Ambiente de Trabalho\Vítor\Universidade\2º Ano\2º Semestre\Laboratório de SW\Projeto - Etapa 2\Minesweeper v2.0\Minesweeper\obj\Debug\Minesweeper.pdb
